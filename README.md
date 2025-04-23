@@ -25,11 +25,7 @@
 | 17 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/17_CVPR2024.png) | **RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection** | CVPR 2024 | [📄 Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_RealNet_A_Feature_Selection_Network_with_Realistic_Synthetic_Anomaly_for_CVPR_2024_paper.pdf) |
 | 18 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/18_CVPR2024.png) | **Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection** | CVPR 2024 | [📄 Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Anomaly_Heterogeneity_Learning_for_Open-set_Supervised_Anomaly_Detection_CVPR_2024_paper.pdf) |
 | 19 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/19_CVPR2024.png) | **Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts** | CVPR 2024 | [📄 Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Toward_Generalist_Anomaly_Detection_via_In-context_Residual_Learning_with_Few-shot_CVPR_2024_paper.pdf) |
-| 20 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/1_AAAI2024.png) | **A comprehensive augmentation framework for anomaly detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i8.28720
-        
-        
-        
-        ) |
+| 20 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/1_AAAI2024.png) | **A comprehensive augmentation framework for anomaly detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i8.28720 ) |
 | 21 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/2_AAAI2024.png) | **ADA-GAD: anomaly-denoised autoencoders for graph anomaly detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i8.28691) |
 | 22 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/3_AAAI2024.png) | **A Diffusion-Based Framework for Multi-Class Anomaly Detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i8.28690) |
 | 23 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/4_AAAI2024.png) | **Dense Projection for Anomaly Detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i8.28682) |
