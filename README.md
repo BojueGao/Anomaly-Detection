@@ -29,6 +29,16 @@
 | 21 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/2_AAAI2024.png) | **ADA-GAD: anomaly-denoised autoencoders for graph anomaly detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i8.28691) |
 | 22 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/3_AAAI2024.png) | **A Diffusion-Based Framework for Multi-Class Anomaly Detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i8.28690) |
 | 23 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/4_AAAI2024.png) | **Dense Projection for Anomaly Detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i8.28682) |
+| 24 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/5_AAAI2024.png) | **Few shot part segmentation reveals compositional logic for industrial anomaly detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i8.28703) |
+| 25 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/6_AAAI2024.png) | **Generating and reweighting dense contrastive patterns for unsupervised anomaly detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/abs/10.1609/aaai.v38i2.27910) |
+| 26 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/7_AAAI2024.png) | **LogFormer: A Pre-train and Tuning Pipeline for Log Anomaly Detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i1.27764) |
+| 27 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/8_AAAI2024.png) | **Rethinking Reverse Distillation for Multi-Modal Anomaly Detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i8.28687) |
+| 28 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/9_AAAI2024.png) | **Unsupervised Continual Anomaly Detection with Contrastively-Learned Prompt** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i4.28153) |
+| 29 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/10_AAAI2024.png) | **VadCLIP: adapting vision-language models for weakly supervised video anomaly detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i6.28423) |
+| 30 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/11_AAAI2024.png) | **When model meets new normals: test-time adaptation for unsupervised time-series anomaly detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i12.29210) |
+
+
+
 
 
 
