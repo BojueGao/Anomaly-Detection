@@ -42,7 +42,7 @@
 ## 📌 2023 Papers List
 | No.  | Figure  | Title | Pub. | Links |
 |:------:|:------:|:------:|:------:|:------:|
-| 1 | ![CLAP](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/1_ICCV2023.png) | ** PNI : Industrial Anomaly Detection using Position and Neighborhood Information** | ICCV 2023 | [📄 Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Bae_PNI__Industrial_Anomaly_Detection_using_Position_and_Neighborhood_Information_ICCV_2023_paper.pdf) |
+| 1 | ![CLAP](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/1_ICCV2023.png) | **PNI : Industrial Anomaly Detection using Position and Neighborhood Information** | ICCV 2023 | [📄 Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Bae_PNI__Industrial_Anomaly_Detection_using_Position_and_Neighborhood_Information_ICCV_2023_paper.pdf) |
 
 
 
