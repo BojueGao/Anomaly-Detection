@@ -25,25 +25,44 @@
 | 17 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/17_CVPR2024.png) | **RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection** | CVPR 2024 | [📄 Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_RealNet_A_Feature_Selection_Network_with_Realistic_Synthetic_Anomaly_for_CVPR_2024_paper.pdf) |
 | 18 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/18_CVPR2024.png) | **Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection** | CVPR 2024 | [📄 Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Anomaly_Heterogeneity_Learning_for_Open-set_Supervised_Anomaly_Detection_CVPR_2024_paper.pdf) |
 | 19 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/19_CVPR2024.png) | **Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts** | CVPR 2024 | [📄 Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Toward_Generalist_Anomaly_Detection_via_In-context_Residual_Learning_with_Few-shot_CVPR_2024_paper.pdf) |
-| 20 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/1_AAAI2024.png) | **A comprehensive augmentation framework for anomaly detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i8.28720) |
-| 21 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/2_AAAI2024.png) | **ADA-GAD: anomaly-denoised autoencoders for graph anomaly detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i8.28691) |
-| 22 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/3_AAAI2024.png) | **A Diffusion-Based Framework for Multi-Class Anomaly Detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i8.28690) |
-| 23 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/4_AAAI2024.png) | **Dense Projection for Anomaly Detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i8.28682) |
-| 24 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/5_AAAI2024.png) | **Few shot part segmentation reveals compositional logic for industrial anomaly detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i8.28703) |
-| 25 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/6_AAAI2024.png) | **Generating and reweighting dense contrastive patterns for unsupervised anomaly detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/abs/10.1609/aaai.v38i2.27910) |
-| 26 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/7_AAAI2024.png) | **LogFormer: A Pre-train and Tuning Pipeline for Log Anomaly Detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i1.27764) |
-| 27 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/8_AAAI2024.png) | **Rethinking Reverse Distillation for Multi-Modal Anomaly Detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i8.28687) |
-| 28 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/9_AAAI2024.png) | **Unsupervised Continual Anomaly Detection with Contrastively-Learned Prompt** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i4.28153) |
-| 29 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/10_AAAI2024.png) | **VadCLIP: adapting vision-language models for weakly supervised video anomaly detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i6.28423) |
-| 30 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/11_AAAI2024.png) | **When model meets new normals: test-time adaptation for unsupervised time-series anomaly detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i12.29210) |
+| 20 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/1_AAAI2024.png) | **A comprehensive augmentation framework for anomaly detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i8.28720)|
+| 21 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/2_AAAI2024.png) | **ADA-GAD: anomaly-denoised autoencoders for graph anomaly detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i8.28691
+        
+        ) |
+| 22 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/3_AAAI2024.png) | **A Diffusion-Based Framework for Multi-Class Anomaly Detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i8.28690
+        
+        ) |
+| 23 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/4_AAAI2024.png) | **Dense Projection for Anomaly Detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i8.28682
+        
+        ) |
+| 24 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/5_AAAI2024.png) | **Few shot part segmentation reveals compositional logic for industrial anomaly detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i8.28703
+        
+        ) |
+| 25 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/6_AAAI2024.png) | **Generating and reweighting dense contrastive patterns for unsupervised anomaly detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/abs/10.1609/aaai.v38i2.27910
+        
+        ) |
+| 26 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/7_AAAI2024.png) | **LogFormer: A Pre-train and Tuning Pipeline for Log Anomaly Detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i1.27764
+        
+        ) |
+| 27 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/8_AAAI2024.png) | **Rethinking Reverse Distillation for Multi-Modal Anomaly Detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i8.28687
+        
+        ) |
+| 28 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/9_AAAI2024.png) | **Unsupervised Continual Anomaly Detection with Contrastively-Learned Prompt** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i4.28153
+        
+        ) |
+| 29 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/10_AAAI2024.png) | **VadCLIP: adapting vision-language models for weakly supervised video anomaly detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i6.28423
+        
+        ) |
+| 30 | ![](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/11_AAAI2024.png) | **When model meets new normals: test-time adaptation for unsupervised time-series anomaly detection** | AAAI 2024 | [📄 Paper](https://dl.acm.org/doi/10.1609/aaai.v38i12.29210
+        
+        ) |
 
 
 
 ## 📌 2023 Papers List
 | No.  | Figure  | Title | Pub. | Links |
 |:------:|:------:|:------:|:------:|:------:|
-| 1 | ![CLAP](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/1_ICCV2023.png) | ** PNI : Industrial Anomaly Detection using Position and Neighborhood
- Information** | ICCV 2023 | [📄 Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Bae_PNI__Industrial_Anomaly_Detection_using_Position_and_Neighborhood_Information_ICCV_2023_paper.pdf) |
+| 1 | ![CLAP](https://github.com/BojueGao/Anomaly-Detection/blob/master/Anomaly%20Detection%20Ficture/1_ICCV2023.png) | ** PNI : Industrial Anomaly Detection using Position and Neighborhood Information** | ICCV 2023 | [📄 Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Bae_PNI__Industrial_Anomaly_Detection_using_Position_and_Neighborhood_Information_ICCV_2023_paper.pdf) |
 
 
 
